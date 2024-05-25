@@ -1,3 +1,3 @@
 # pile_of_codes
 
-* 日常的に書いたコードを積み重ねていきます。
+* [Juten10x](https://juten10x.github.io/)が日常的に書いたコードを積み重ねていきます。
