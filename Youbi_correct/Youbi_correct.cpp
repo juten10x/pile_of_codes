@@ -22,7 +22,7 @@ string Zeller_c(int y, int m, int d) {
   }
   int Y = y%100;
 
-  int ans = floor_mine(26*(m+1), 10)%7 + d%7 + Y%7 + floor_mine(Y, 4) - (2*floor_mine(y, 100))%7 + floor_mine(y, 400)%7;
+  int ans = floor_mine(26*(m+1), 10)%7 + d%7 + Y%7 + floor_mine(Y, 4)%7 - (2*floor_mine(y, 100))%7 + floor_mine(y, 400)%7;
 
   return Youbi_vec.at(ans%7);
 }
