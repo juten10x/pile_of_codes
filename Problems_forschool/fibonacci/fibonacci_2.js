@@ -1,7 +1,7 @@
-let a = [1, 1];
+let s = [1, 1];
 
 for (let i = 3; i <= 30; i++) {
-  a[i%2] = a[0] + a[1];
+  s[i%2] = s[0] + s[1];
 }
 
-document.write(a[0]);
+document.write(s[0]);
