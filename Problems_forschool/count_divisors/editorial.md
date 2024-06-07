@@ -8,7 +8,7 @@ JavaScriptによる解答例を以下に示します．
 let cnt = 0;
 
 for (let i = 1; i <= 100; i++) {
-  if (100%i == 0) cnt += 1;
+  if (100 % i == 0) cnt += 1;
 }
 
 document.write(cnt);
