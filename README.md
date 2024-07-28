@@ -1,6 +1,6 @@
 # pile_of_codes
 
-* [Juten10x](https://juten10x.github.io/)が日常的に書いたコードを積み重ねていきます。
+* [juten10x](https://juten10x.github.io/)が日常的に書いたコードを積み重ねていきます。
 
   * Problems_forschool: 学校の情報の授業用
   * Youbi_correct: 年月日から曜日計算
