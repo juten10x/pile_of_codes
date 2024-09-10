@@ -1,4 +1,4 @@
-# プログラミング問題 by juten10x
+# プログラミング問題 by Juten10x
 * count_divisors: 2ページ目の問題
 * out_a: 3ページ目の問題
 * fibonacci: 4ページ目の問題
