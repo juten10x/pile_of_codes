@@ -7,4 +7,4 @@
   * _10to2: 10進数から2進数へ変換
   * isPrime: 素数判定
   * prime_factorization: 素因数分解
-  * random_integer: 1からNまでのランダムな順序で出力
+  * random_integer: 1からNまでの数字をランダムな順序で出力
