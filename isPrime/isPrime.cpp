@@ -17,6 +17,6 @@ int main() {
   long long N;
   cin >> N;
 
-  cout << N << (isPrime(N) ? "は素数です" : "は合成数です") << '\n';
+  cout << N << (isPrime(N) ? "は素数です" : "は素数ではありません") << '\n';
   return 0;
 }
